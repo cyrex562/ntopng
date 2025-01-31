@@ -1,0 +1,10 @@
+[package]
+name = "ntopng"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+mlua = { version = "0.9", features = ["lua54"] }
+dns-lookup = "2.0"
+patricia_tree = "0.7"
+serde = { version = "1.0", features = ["derive"] }

@@ -1,1 +1,0 @@
-ntopng ALL= NOPASSWD: /usr/bin/ntopctl

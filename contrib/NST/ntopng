@@ -1,3 +1,0 @@
-#
-# Command line options for ntopng...
-OPTIONS="/etc/ntopng/ntopng.conf"
